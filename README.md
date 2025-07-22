@@ -27,7 +27,7 @@ The dataset (`E-Commerce Dashboard dataset.xlsx`) includes historical sales data
 
 ## ✅ Dashboard Preview
 
-![Dashboard Preview](Screenshot%202025-07-22%20141330.png)
+![Dashboard Preview](https://github.com/Divyashree132/-Designing-a-Sales-Dashboard-in-Excel-/blob/main/Designing%20a%20Sales%20Dashboard%20in%20Excel/Screenshot%202025-07-22%20141330.png)
 
 **Key Visuals**:
 - **Month-wise Sales & Profit Chart**: Compares monthly performance across sales and profit.
